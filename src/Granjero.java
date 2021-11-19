@@ -18,7 +18,7 @@ public class Granjero
     public String getNombre(){
         return nombre;
     }
-    //prueba class
+    //prueba cla
     public String getApellidos(){
         return nombre;
     }
