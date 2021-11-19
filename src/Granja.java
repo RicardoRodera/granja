@@ -19,13 +19,13 @@ public class Granja
     public String toString(){
         StringBuilder sb = new StringBuilder();
         
-        sb.append("\nGrangas");
+        sb.append("\nGrangasxzxzx");
         sb.append("\n====================");
         sb.append("\nNombre: ");
         sb.append(nombre);
         sb.append("\nUbicacion: ");
         sb.append(ubicacion);
-        sb.append(granjeroses);      
+        sb.append(granjero);      
         
         return sb.toString();
     }
