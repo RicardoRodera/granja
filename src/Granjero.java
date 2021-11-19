@@ -20,7 +20,7 @@ public class Granjero
     }
     
     public String getApellidos(){
-        return apellidos;
+        return nombre;
     }
     
     public int getEdad(){
