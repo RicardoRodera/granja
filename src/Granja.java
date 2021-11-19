@@ -18,8 +18,8 @@ public class Granja
     
     public String toString(){
         StringBuilder sb = new StringBuilder();
-        
-        sb.append("\nGranja");
+        //mecagoentuputamadre
+        sb.append("\nGrangasxzxzx");
         sb.append("\n====================");
         sb.append("\nNombre: ");
         sb.append(nombre);

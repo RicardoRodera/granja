@@ -18,9 +18,9 @@ public class Granjero
     public String getNombre(){
         return nombre;
     }
-    
+    //prueba class
     public String getApellidos(){
-        return apellidos;
+        return nombre;
     }
     
     public int getEdad(){
