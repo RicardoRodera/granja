@@ -25,7 +25,7 @@ public class Granja
         sb.append(nombre);
         sb.append("\nUbicacion: ");
         sb.append(ubicacion);
-        sb.append(granjero);      
+        sb.append(granjeroses);      
         
         return sb.toString();
     }
