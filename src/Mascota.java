@@ -11,7 +11,7 @@ public class Mascota
         this.edad = edad;
         this.tipo = tipo;
     }
-
+    // commentario prueba
     public String toString(){
         StringBuilder sb= new StringBuilder();
         
