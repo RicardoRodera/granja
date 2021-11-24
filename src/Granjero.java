@@ -15,6 +15,7 @@ public class Granjero
         this.sexo = sexo;
     }
 
+    //estamos de vuelta
     public String getNombre(){
         return nombre;
     }
