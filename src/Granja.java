@@ -18,7 +18,7 @@ public class Granja
     
     public String toString(){
         StringBuilder sb = new StringBuilder();
-        //yano pobrecita
+        //para ya Cesar 
         sb.append("\nGrangasxzxzx");
         sb.append("\n====================");
         sb.append("\nNombre: ");
